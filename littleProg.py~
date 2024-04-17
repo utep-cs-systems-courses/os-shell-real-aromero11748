@@ -1,0 +1,11 @@
+#! /usr/bin/env python3
+
+import os, sys, re
+if len(sys.argv) == 2:
+    x = sys.argv[1]
+    y = sys.argv[2]
+
+
+print('here in little program')
+
+print()
