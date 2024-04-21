@@ -1,0 +1,6 @@
+/usr/local/sbin/wc
+/usr/local/bin/wc
+/usr/sbin/wc
+/usr/bin/wc
+ 6 12 97 myText.txt
+ 4  4 62 total

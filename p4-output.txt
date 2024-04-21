@@ -1,0 +1,41 @@
+/usr/local/sbin/wc
+/usr/local/bin/wc
+/usr/sbin/wc
+/usr/bin/wc
+0 0 0 total
+littleProg.py
+eProg
+/sbin/littleProg
+/bin/littleProg
+/usr/games/littleProg
+/usr/local/games/littleProg
+/usr/lib/wsl/lib/littleProg
+/mnt/c/Program Files/Eclipse Adoptium/jdk-17.0.8.101-hotspot/bin/littleProg
+/mnt/c/Program Files (x86)/VMware/VMware Workstation/bin//littleProg
+/mnt/c/Program Files/Common Files/Oracle/Java/javapath/littleProg
+/mnt/c/WINDOWS/system32/littleProg
+/mnt/c/WINDOWS/littleProg
+/mnt/c/WINDOWS/System32/Wbem/littleProg
+/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0//littleProg
+/mnt/c/WINDOWS/System32/OpenSSH//littleProg
+/mnt/c/Program Files/MATLAB/R2019b/bin/littleProg
+/mnt/c/Program Files/Java/jdk-17.0.2/littleProg
+/mnt/c/Users/tonyr/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Python 3.10/littleProg
+/mnt/c/Users/tonyr/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Python 3.10/Scripts/littleProg
+/mnt/c/Program Files/Git/cmd/littleProg
+/mnt/c/ProgramData/chocolatey/bin/littleProg
+/mnt/c/Program Files (x86)/sbt/bin/littleProg
+/mnt/c/Users/tonyr/AppData/Roaming/nvm/littleProg
+/mnt/c/Program Files/nodejs/littleProg
+/mnt/c/Program Files/MySQL/MySQL Shell 8.1/bin//littleProg
+/mnt/c/Users/tonyr/AppData/Local/Microsoft/WindowsApps/littleProg
+/mnt/c/Users/tonyr/AppData/Local/Programs/Microsoft VS Code/bin/littleProg
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2022.3.1/bin/littleProg
+/mnt/c/Users/tonyr/AppData/Local/Coursier/data/bin/littleProg
+/mnt/c/Users/tonyr/AppData/Roaming/nvm/littleProg
+/mnt/c/Program Files/nodejs/littleProg
+/mnt/c/Users/tonyr/AppData/Roaming/npm/littleProg
+/snap/bin/littleProg
+ Files/nodejs/littleProg.py
+/mnt/c/Users/tonyr/AppData/Roaming/npm/littleProg.py
+/snap/bin/littleProg.py
